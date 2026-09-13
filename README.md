@@ -89,7 +89,7 @@ Data	Autor	Descrição da atualização
 ---
 
 ## 📱 Redes sociais
-#
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Ana_Giese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-g-548419230)
 #
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Erica_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-oliveira-7597b9291?utm_source=share_via&utm_content=profile&utm_medium=member_android)
