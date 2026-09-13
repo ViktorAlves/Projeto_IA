@@ -16,7 +16,7 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 ## 👨‍💻 Integrantes do Grupo
 
 ```text
-👤 Ana Clara Gierse Raymundo
+👤 Ana Clara Gierse Raymundo [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](())
 ├─ TIA:    10428453
 └─ E-mail: 10428453@mackenzista.com.br
 👤 Erica Gonçalves de Oliveira
@@ -90,8 +90,3 @@ Data	Autor	Descrição da atualização
 ├── 📄 README.md                        # Documentação e apresentação do repositório
 ```
 
----
-
-## 📱 Redes sociais dos membros do projeto
-### Ana Clara Gierse
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ana-g-548419230/))
