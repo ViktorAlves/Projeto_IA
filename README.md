@@ -95,8 +95,8 @@ Data	Autor	Descrição da atualização
 #
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Ana_Giese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
 #
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn_EricaOliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Erica_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
 #
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Luana_Domingos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Luana_Domingos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-domingos-branco-25a480256)
 #
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Victor_Alves-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
