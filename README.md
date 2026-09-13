@@ -20,11 +20,11 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 ├─ TIA:    10428453
 └─ E-mail: 10428453@mackenzista.com.br
 👤 Erica Gonçalves de Oliveira
-├─ TIA:    10428459
-└─ E-mail: 10428459@mackenzista.com.br
-👤 Luana Domingos Branco
 ├─ TIA:    10428547
 └─ E-mail: 10428547@mackenzista.com.br
+👤 Luana Domingos Branco
+├─ TIA:    10428459
+└─ E-mail: 10428459@mackenzista.com.br
 👤 Victor Luiz de Sá Alves
 ├─ TIA:    10426310
 └─ E-mail: 10426310@mackenzista.com.br
