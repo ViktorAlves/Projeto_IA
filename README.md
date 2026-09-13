@@ -71,7 +71,6 @@ O pipeline experimental é composto pelas seguintes etapas:
 ## 📁 Estrutura do Repositório
 
 ```text
-.
 
 ├── Base de dados/
 |      └── 📊 Z-Alizadeh sani dataset.xlsx    # Base de dados oficial utilizada no projeto
