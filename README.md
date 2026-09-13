@@ -15,12 +15,18 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 
 ## 👨‍💻 Integrantes do Grupo
 
-| Nome |                          | TIA  |            |E-mail |
-| :---                            | :---:|            |  :--- |
-| **Ana Clara Gierse Raymundo** | `10428453` | 10428453@mackenzista.com.br |
-| **Luana Domingos Branco** | `10428547` | 10428547@mackenzista.com.br |
-| **Erica Gonçalves de Oliveira** | `10428459` | 10428459@mackenzista.com.br |
-| **Victor Luiz de Sá Alves** | `10426310` | 10426310@mackenzista.com.br |
+👤 Ana Clara Gierse Raymundo
+├─ TIA:    10428453
+└─ E-mail: 10428453@mackenzista.com.br
+👤 Erica Gonçalves de Oliveira
+├─ TIA:    10428459
+└─ E-mail: 10428459@mackenzista.com.br
+👤 Luana Domingos Branco
+├─ TIA:    10428547
+└─ E-mail: 10428547@mackenzista.com.br
+👤 Victor Luiz de Sá Alves
+├─ TIA:    10426310
+└─ E-mail: 10426310@mackenzista.com.br
 
 **Orientador / Professor:** Prof. Dr. Luiz Carlos Machi Lozano  
 *Faculdade de Computação e Informática (FCI)*
