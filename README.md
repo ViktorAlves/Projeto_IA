@@ -88,3 +88,10 @@ Data	Autor	Descrição da atualização
 ├── Relatório/
 |      └── 📕 Projeto_IA.pdf                  # Relatório acadêmico completo em formato PDF
 ├── 📄 README.md                        # Documentação e apresentação do repositório
+```
+
+---
+
+## 📱 Redes sociais dos membros do projeto
+### Ana Clara Gierse
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ana-g-548419230/))
