@@ -92,4 +92,5 @@ Data	Autor	Descrição da atualização
 ---
 
 ##📱 Redes sociais
-[![LinkedIn Ana Gierse](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/victor-luiz-b39738222/))
+#
+[![LinkedIn](https://img.shields.io/badge/-LinkedInAnaGiese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
