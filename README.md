@@ -70,9 +70,9 @@ O pipeline experimental é composto pelas seguintes etapas:
 
 ## 📅 Alterações do Repositório
 ```text
-| Data | Autor | Breve Descrição da Atualização |
-| :---:| :--- | :--- |
-| `12/09/2026` | **Victor Alves** | Criação do repositório no GitHub, inclusão do dataset `.xlsx`, relatório e notebooks no repositório |
+Data	Autor	Descrição da atualização
+12/09/2026	Victor Alves	Criação do repositório e adição da base de dados
+13/09/2026	Victor Alves	Adição do Relatório e Notebook python
 
 ```
 
