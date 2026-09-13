@@ -94,3 +94,9 @@ Data	Autor	Descrição da atualização
 ##📱 Redes sociais
 #
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Ana_Giese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
+#
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_EricaOliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
+#
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Luana_Domingos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
+#
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Victor_Alves-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/)
