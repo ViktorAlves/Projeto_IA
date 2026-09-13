@@ -15,6 +15,7 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 
 ## 👨‍💻 Integrantes do Grupo
 
+```text
 👤 Ana Clara Gierse Raymundo
 ├─ TIA:    10428453
 └─ E-mail: 10428453@mackenzista.com.br
@@ -27,6 +28,8 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 👤 Victor Luiz de Sá Alves
 ├─ TIA:    10426310
 └─ E-mail: 10426310@mackenzista.com.br
+
+```
 
 **Orientador / Professor:** Prof. Dr. Luiz Carlos Machi Lozano  
 *Faculdade de Computação e Informática (FCI)*
