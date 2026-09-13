@@ -30,9 +30,6 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 └─ E-mail: 10426310@mackenzista.com.br
 ```
 
-**Orientador / Professor:** Prof. Dr. Luiz Carlos Machi Lozano  
-*Faculdade de Computação e Informática (FCI)*
-
 ---
 
 ## 📊 Estrutura do Dataset
