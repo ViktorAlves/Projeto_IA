@@ -13,18 +13,29 @@ Este projeto tem como objetivo desenvolver, otimizar e avaliar modelos supervisi
 
 ---
 
+## 🛠️ Opção Framework & Tecnologias
+
+O projeto se enquadra na **Opção Framework**, conforme proposta da disciplina, utilizando técnicas de aprendizado supervisionado para um problema de classificação binária na área da saúde.
+
+O desenvolvimento é realizado em **Python**, utilizando principalmente o framework **`scikit-learn`** para as etapas de preparação dos dados, divisão entre treino e teste, validação cruzada, otimização de hiperparâmetros e implementação dos modelos Regressão Logística, Support Vector Machine (SVM) e Random Forest. Para o modelo XGBoost, é utilizada a biblioteca específica **`XGBoost`**, integrada ao mesmo fluxo de treinamento e avaliação.
+
+---
+
 ## 👨‍💻 Integrantes do Grupo
 
 ```text
 👤 Ana Clara Gierse Raymundo 
 ├─ TIA:    10428453
 └─ E-mail: 10428453@mackenzista.com.br
+
 👤 Erica Gonçalves de Oliveira
-├─ TIA:    10428547
-└─ E-mail: 10428547@mackenzista.com.br
-👤 Luana Domingos Branco
 ├─ TIA:    10428459
 └─ E-mail: 10428459@mackenzista.com.br
+
+👤 Luana Domingos Branco
+├─ TIA:    10428547
+└─ E-mail: 10428547@mackenzista.com.br
+
 👤 Victor Luiz de Sá Alves
 ├─ TIA:    10426310
 └─ E-mail: 10426310@mackenzista.com.br
