@@ -80,6 +80,7 @@ O pipeline experimental é composto pelas seguintes etapas:
 Data	Autor	Descrição da atualização
 12/09/2026	Victor Alves	Criação do repositório e adição da base de dados
 13/09/2026	Victor Alves	Adição do Relatório e Notebook python
+14/09/2026	Victor Alves	Adição do readme ao repositório
 ```
 
 ---
