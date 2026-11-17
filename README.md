@@ -92,9 +92,11 @@ Data	Autor	Descrição da atualização
 ├── Base de dados/
 |      └── 📊 Z-Alizadeh sani dataset.xlsx    # Base de dados oficial utilizada no projeto
 ├──Notebooks/
+       └──📓 Proejto_IA.pdf                   #Relatório acadêmico em formato PDF com os pedido da N1
 |      └──📓 ProjetoIA.ipynb                  # Notebook Jupyter/Colab com o código-fonte da análise e modelos
-├── Relatório/
+├── N2/
 |      └── 📕 Projeto_IA.pdf                  # Relatório acadêmico completo em formato PDF
+       └── 📕 ProjetoIA_N2.jpynb              # Notebook Jupyter/Colab com o código-fonte da análise e modelos completo
 ├── 📄 README.md                        # Documentação e apresentação do repositório
 ```
 
